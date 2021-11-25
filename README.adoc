@@ -68,6 +68,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | przycisk, guzik
 
+| branch
+| brancz
+| gałąź
+
 | bypass
 |
 | obejście
@@ -254,7 +258,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | feature
 | ficzer
-| funkcja
+| funkcja, funkcjonalność
 
 | feedback
 |
@@ -311,6 +315,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | include
 | zainkludować
 | zawierać
+
+| increment (_v_)
+| inkrementować
+| zwiększyć
 
 | inject (_v_)
 | indżektować
@@ -675,6 +683,14 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | syntax
 |
 | składnia
+
+| tag (_n_)
+| 
+| etykieta, znacznik
+
+| tag (_v_)
+| otagować
+| przypisać etykietę/znacznik
 
 | task
 |
